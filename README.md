@@ -15,7 +15,7 @@ Named for English author Jane Austen, this is a traditional book theme, with ser
 
 ### Manual
 
-Download the [latest release](https://github.com/pressbooks/pressbooks-austenclassic/releases/latest/) and unzip the contents to `WP_CONTENT_DIR . `/themes/pressbooks-austenclassic/`.
+Download the [latest release](https://github.com/pressbooks/pressbooks-austenclassic/releases/latest/) and unzip the contents to `WP_CONTENT_DIR . '/themes/pressbooks-austenclassic/'`.
 
 ### Composer
 

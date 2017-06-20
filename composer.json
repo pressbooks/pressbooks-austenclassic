@@ -3,10 +3,13 @@
     "description": "Named for English author Jane Austen, this is a traditional book theme, with serif fonts, that works well for fiction and simple-layout non-fiction.",
     "type": "wordpress-theme",
     "require": {
-        "composer/installers": "^1.2"
+        "composer/installers": "~1.3"
     },
     "require-dev": {
         "humanmade/coding-standards": "^0.2.1"
+    },
+    "archive": {
+        "exclude": [".github"]
     },
     "license": "GPL-2.0+",
     "authors": [

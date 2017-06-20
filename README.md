@@ -1,5 +1,7 @@
 # Austen Classic
 
+[![Packagist](https://img.shields.io/packagist/l/pressbooks/pressbooks-austenclassic.svg)](https://packagist.org/packages/pressbooks/pressbooks-austenclassic/) [![Packagist](https://img.shields.io/packagist/v/pressbooks/pressbooks-austenclassic.svg)](https://packagist.org/packages/pressbooks/pressbooks-austenclassic/)
+
 Named for English author Jane Austen, this is a traditional book theme, with serif fonts, that works well for fiction and simple-layout non-fiction.
 
 ## Requirements

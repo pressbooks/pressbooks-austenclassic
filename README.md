@@ -9,7 +9,7 @@ Named for English author Jane Austen, this is a traditional book theme, with ser
 * PHP >= 5.6
 * WordPress >= 4.8.0
 * Pressbooks >= 4.0.0
-* Pressbooks Book >= 1.7.0
+* Pressbooks Book >= 1.9.0
 
 ## Installation
 

@@ -1,16 +1,14 @@
-@import 'mixins', 'fonts-web';
+@import 'mixins', 'fonts-web', 'tables', 'textboxes';
 
-body {
+#content {
   font-family: $font-1;
   line-height: 1.5em;
 
-}
+  .entry-content a {
+    color: #00e;
+    text-decoration: none;
 
-a {
-  color: #00e;
-  text-decoration: none;
-
-}
+  }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $font-2;
@@ -133,3 +131,7 @@ h3, h4, h5 {
   text-indent: 0;
   text-transform: none;
 }
+}
+
+@include tables();
+@include textboxes();
